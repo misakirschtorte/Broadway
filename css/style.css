@@ -1,0 +1,44 @@
+body {
+  font-family: Helvetica;
+  text-align: center;
+}
+
+a {
+  color: white;
+  font-size: 18px;
+}
+
+header, .contents {
+  background-image: url(/Users/misakirschtorte/Documents/projects/Broadway/resorce/the-flatiron-building.png);
+  color: white;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+}
+
+li {
+  list-style: none;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 14px;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.copyright {
+  background-color: dimgray;
+  color: white;
+  font-size: 11px;
+  text-align: left;
+}
